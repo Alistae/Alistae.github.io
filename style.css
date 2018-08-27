@@ -1,4 +1,4 @@
-body{
+body, html{
 	background-color:#DCD0C0;
 	padding:0; margin:0;
 }
@@ -25,5 +25,18 @@ ul{
 	background-color:#353839;
 }
 .banner img{
+	position:absolute;
 	width:100%; height:500px;
+}
+.photofeed{
+	height:97917px; width:1200px;
+	background-color:#C0B283;
+	position:absolute;
+	margin-left:360px;
+	margin-top:380px;
+}
+.photofeed img{
+	display:block;
+    width:1166px; height:962px;
+    margin-left:17px; margin-right:17px; margin-top:17px;
 }
