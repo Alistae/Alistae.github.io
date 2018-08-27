@@ -44,10 +44,9 @@ ul{
 and (min-device-width : 414px) 
 and (max-device-width : 736px){
 	ul{
-	padding-left:420px;
+	padding-left:400px;
 }
 .photofeed{
-	height:97917px; width:1200px;
-	margin-left:50px;
+	margin-left:20px;
 }
 }
