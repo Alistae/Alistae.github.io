@@ -45,10 +45,10 @@ and (min-device-width : 414px)
 and (max-device-width : 736px) 
 and (orientation : portrait) {
 	ul{
-	padding-left:400px;
+	padding-left:420px;
 }
 .photofeed{
 	height:97917px; width:1200px;
-	margin-left:200px;
+	margin-left:50px;
 }
 }
