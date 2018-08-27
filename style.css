@@ -40,3 +40,11 @@ ul{
     width:1166px; height:962px;
     margin-left:17px; margin-right:17px; margin-top:17px;
 }
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) 
+and (orientation : portrait) {
+	ul{
+	padding-left:600px;
+}
+}
